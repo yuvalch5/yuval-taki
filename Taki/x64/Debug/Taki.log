@@ -1,0 +1,22 @@
+﻿  Taki_Updated.c
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(132,11): warning C4101: 'tempArr': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(173,10): warning C4101: 'special_card': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(229,10): warning C4101: 'top_card': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(230,9): warning C4101: 'card_color_int': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(292,46): warning C4047: '=': 'PLAYER *' differs in levels of indirection from 'PLAYER **'
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(303,46): warning C4047: '=': 'PLAYER *' differs in levels of indirection from 'PLAYER **'
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(307,46): warning C4047: '=': 'PLAYER *' differs in levels of indirection from 'PLAYER **'
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(485,41): warning C4033: 'playerChoice' must return a value
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(494,41): warning C4033: 'playerChoice' must return a value
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(552,40): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(644,40): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(403,10): warning C4101: 'does_player_has_choice': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(402,12): warning C4101: 'j': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(402,9): warning C4101: 'i': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(803,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(864,68): warning C4047: 'function': 'PLAYER **' differs in levels of indirection from 'PLAYER *'
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(864,61): warning C4024: 'currentPlayer': different types for formal and actual parameter 2
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(794,9): warning C4101: 'max_card': unreferenced local variable
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(120): warning C4715: 'returnSpecialCard': not all control paths return a value
+C:\Users\yuval\source\repos\Taki\Taki\backup\Taki_Updated.c(710): warning C4715: 'playerChoice': not all control paths return a value
+  Taki.vcxproj -> C:\Users\yuval\source\repos\Taki\x64\Debug\Taki.exe
